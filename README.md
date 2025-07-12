@@ -14,7 +14,7 @@ Malaria is a life-threatening disease caused by Plasmodium parasites, transmitte
 
 - 📌 **Transfer Learning:** Leveraged pretrained EfficientNetB7 for high performance with less training data.
 - 🧪 **Data Preprocessing:** Image resizing, normalization, and augmentation (rotation, flipping, zooming).
-- 📈 **Visualization:** Training curves, confusion matrix, and sample predictions for interpretability.
+- 📈 **Visualization:** Training curves, and sample predictions for interpretability.
 
 #### Clone the repository
      ```bash
