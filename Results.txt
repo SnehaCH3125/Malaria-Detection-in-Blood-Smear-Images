@@ -1,0 +1,6 @@
+Image_ID	     Predicted_Class   Confidence
+id_5n9ov0rr22.jpg    Trophozoite       0.514168
+id_k6s11k3klo.jpg    Trophozoite       0.508008
+id_eftvcf9djb.jpg    Trophozoite       0.531548
+id_kc5tmoj1xa.jpg    Trophozoite       0.539209
+id_tirid4qt68.jpg    Trophozoite       0.533799
